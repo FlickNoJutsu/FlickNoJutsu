@@ -10,6 +10,6 @@ https://hypixel.net/members/fl1ckcs.3719120/
 
 Fl1ck#9797
 
-Buy me a coffee
+Buy me a coffee :)
 
 https://www.buymeacoffee.com/fl1ckcs
