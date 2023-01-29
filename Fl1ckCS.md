@@ -8,7 +8,7 @@
 - 📫 How to reach me **fl1ck@catbro.tk**
 
 <h3 align="left">Connect with me:</h3>
-[https://hypixel.net/members/fl1ckcs.3719120/](Hypixel)
+[https://hypixel.net/members/fl1ckcs.3719120](Hypixel)
 <p align="left">
 </p>
 
