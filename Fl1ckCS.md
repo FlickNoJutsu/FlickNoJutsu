@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flicknojutsu&label=Profile%20views&color=0e75b6&style=flat" alt="flicknojutsu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/FlickNoJutsu?tab=repositories](https://github.com/FlickNoJutsu?tab=repositoriess)
+- 👨‍💻 All of my projects are available at [https://github.com/FlickNoJutsu?tab=repositories](https://github.com/FlickNoJutsu?tab=repositories)
 
 - 📫 How to reach me **fl1ck@catbro.tk**
 
