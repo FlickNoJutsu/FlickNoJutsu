@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me :
 
-JS - HTML - C# - Node Dev from Canada
+JS - HTML - C++ - Node Dev from Canada
 
-- 🔭 C# Apps & HTML Pages
+- 🔭 C++ Apps & HTML Pages
 - 🌱 2 Years of Experience
 - ⚡ I do Random Projects for No Reason.
 - 📫 Reach me @ fl1ckcsbusiness@gmail.com
